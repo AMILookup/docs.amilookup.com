@@ -3,7 +3,7 @@ layout: default
 title: amilookup-infra
 nav_order: 1
 has_children: true
-has_parent: Home
+parent: Home
 permalink: /amilookup-infra
 ---
 # amilookup.com-infra
