@@ -3,7 +3,6 @@ layout: default
 title: amilookup
 nav_order: 0
 has_children: true
-parent: Home
 permalink: /amilookup
 ---
 # amilookup.com
