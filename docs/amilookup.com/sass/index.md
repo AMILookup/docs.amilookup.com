@@ -1,7 +1,7 @@
 ---
 layout: default
 title: SASS
-nav_order: 0
+nav_order: 3
 has_children: true
 permalink: /sass
 ---
