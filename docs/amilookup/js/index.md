@@ -3,8 +3,8 @@ layout: default
 title: JavaScript
 nav_order: 2
 has_children: true
-parent: amilookup.com
-permalink: /amilookup.com/js
+parent: amilookup
+permalink: /amilookup/js
 ---
 # JavaScript
 

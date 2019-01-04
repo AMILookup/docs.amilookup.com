@@ -2,9 +2,9 @@
 layout: default
 title: CloudFormation
 nav_order: 0
-parent: amilookup.com-infra
+parent: amilookup-infra
 has_children: true
-permalink: /amilookup.com-infra/cfn
+permalink: /amilookup-infra/cfn
 ---
 # CloudFormation
 

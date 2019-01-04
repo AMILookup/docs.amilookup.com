@@ -1,10 +1,10 @@
 ---
 layout: default
-title: amilookup.com
+title: amilookup
 nav_order: 0
 has_children: true
 has_parent: Home
-permalink: /amilookup.com
+permalink: /amilookup
 ---
 # amilookup.com
 
