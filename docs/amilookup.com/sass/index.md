@@ -3,7 +3,8 @@ layout: default
 title: SASS
 nav_order: 3
 has_children: true
-permalink: /sass
+parent: amilookup.com
+permalink: /amilookup.com/sass
 ---
 # SASS
 

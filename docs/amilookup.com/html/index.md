@@ -3,7 +3,8 @@ layout: default
 title: HTML
 nav_order: 1
 has_children: true
-permalink: /html
+parent: amilookup.com
+permalink: /amilookkup.com/html
 ---
 # HTML
 
