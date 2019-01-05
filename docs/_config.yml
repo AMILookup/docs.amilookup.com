@@ -1,6 +1,7 @@
 remote_theme: pmarsceill/just-the-docs
 color_scheme: "dark"
 search_enabled: true
+title: AMILookup Docs
 aux_links:
   "AMILookup":
     - "//amilookup.com"
